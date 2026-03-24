@@ -20,7 +20,7 @@ O site simula uma pequena aplicação com páginas institucionais e uma área de
 ```
 Projeto
 │
-├── server.js
+├── Loja.js
 ├── index.html
 │
 ├── Assets
@@ -78,19 +78,19 @@ https://nodejs.org
 ### 2️⃣ Clonar o repositório
 
 ```
-git clone https://github.com/seuusuario/seuprojeto.git
+git clone https://github.com/PauloElias07/Projeto01_25_03.git
 ```
 
 ### 3️⃣ Acessar a pasta do projeto
 
 ```
-cd seuprojeto
+cd suapasta
 ```
 
 ### 4️⃣ Executar o servidor
 
 ```
-node server.js
+node Loja.js
 ```
 
 ### 5️⃣ Acessar no navegador
